@@ -1,0 +1,11 @@
+
+*.__i
+*.obj
+*.lst
+*.crf
+*.d
+*.o
+*.uvgui.*
+*.bak
+*.build_log.htm
+*/cache/*
